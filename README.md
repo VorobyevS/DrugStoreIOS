@@ -1,9 +1,8 @@
 # DrugStoreIOS
 It's my course project.
-IOSDrugStore app with azure mobile back end
-
-1)DrugStoreIOS(client) - ios app with Xamarin.IOS
-2)DrugStoreMAC(admin tool) - mac app with Xamarin.MAC
+IOSDrugStore app with azure mobile back end.
+DrugStoreIOS(client) - ios app with Xamarin.IOS
+DrugStoreMAC(admin tool) - mac app with Xamarin.MAC
 
 Sample how to work with azure mobile services.
 
