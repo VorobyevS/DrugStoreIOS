@@ -1,6 +1,6 @@
 # DrugStoreIOS
-It's my course project.
-IOSDrugStore app with azure mobile back end.
+It's my course project
+IOSDrugStore app with azure mobile back end
 DrugStoreIOS(client) - ios app with Xamarin.IOS
 DrugStoreMAC(admin tool) - mac app with Xamarin.MAC
 
